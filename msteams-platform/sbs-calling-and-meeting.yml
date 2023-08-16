@@ -249,7 +249,7 @@ items:
     Configure the bot sample to understand how to authenticate conversational bot in Microsoft Teams, create the Teams app package, and upload it to the organization.
     
     1. Update the appsettings.json file in Visual Studio.
-    1. Update teh manifest.json file in Visual Studio and compress it to the zip file in File Explorer.
+    1. Update the manifest.json file in Visual Studio and compress it to the zip file in File Explorer.
 
     **Update appsettings for calling bot**
 
